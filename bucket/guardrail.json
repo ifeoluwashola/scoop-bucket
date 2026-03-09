@@ -1,19 +1,19 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ifeoluwashola/guardrail/releases/download/v1.0.0/guardrail_Windows_x86_64.zip",
+            "url": "https://github.com/ifeoluwashola/guardrail/releases/download/v1.1.0/guardrail_Windows_x86_64.zip",
             "bin": [
                 "guardrail.exe"
             ],
-            "hash": "7d49b1495c20e69b77d1a5283c7cc134391f08c0fe28d3f2df426648dd2a51ae"
+            "hash": "09685b31cad4842176a19a309259aa60181adea44d72c4b5e7c661db99ea8118"
         },
         "arm64": {
-            "url": "https://github.com/ifeoluwashola/guardrail/releases/download/v1.0.0/guardrail_Windows_arm64.zip",
+            "url": "https://github.com/ifeoluwashola/guardrail/releases/download/v1.1.0/guardrail_Windows_arm64.zip",
             "bin": [
                 "guardrail.exe"
             ],
-            "hash": "4ec503738464d717900fbe1bdf5fbe0ea8a81b3e0102eecb0fc2b1acb8de1cc3"
+            "hash": "c6bf56ae2178f24c32ee3235a1d8e41987afb951cc10123e35691a74040728a5"
         }
     },
     "homepage": "https://github.com/ifeoluwashola/guardrail",
